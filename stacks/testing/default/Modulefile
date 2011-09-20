@@ -1,0 +1,4 @@
+name 'cs-default'
+version '0.0.0'
+
+dependency 'DavidSchmitt/apache', '>=1.0.0'
